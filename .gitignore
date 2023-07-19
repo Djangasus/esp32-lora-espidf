@@ -1,0 +1,9 @@
+# Ignore build output
+/build/
+
+# Ignore project-specific configurations
+sdkconfig
+sdkconfig.old
+
+# Ignore editor-specific files
+.vscode/
